@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7670024a8c92c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Offensive Security Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,5 +159,10 @@
     }
   },
   "active": "76486462fd74d113",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pre Security/Pentesting.md",
+    "README.md",
+    "The Offensive Security Roadmap.md",
+    "Pre Security"
+  ]
 }
